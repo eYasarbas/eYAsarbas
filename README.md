@@ -11,6 +11,10 @@ Hello, I'm Enes Yaşarbaş, an aspiring software developer hailing. My primary f
 * 🚀  I'm currently working on [Traversal Booking](http://github.com/eYasarbas/Traversal_Booking)
 * 🧠  I'm learning Asp.NetCore,Data Sicent, Machine Learning ,Flutter
 
+<a href="https://www.x.com/YasarbasEnes" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/YasarbasEnes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
 ### Skills
 
 
@@ -30,11 +34,3 @@ ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
 <a href="http://www.github.com/eYasarbas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eYasarbas&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/eYasarbas"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=eYasarbas&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/eYasarbas/https://github.com/eYasarbas/Recognizing-traffic-signs-with-CNN" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eYasarbas&repo=https://github.com/eYasarbas/Recognizing-traffic-signs-with-CNN&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/eYasarbas/https://github.com/eYasarbas/Traversal_Booking" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eYasarbas&repo=https://github.com/eYasarbas/Traversal_Booking&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/eYasarbas/https://github.com/eYasarbas/Tracking-market-product-with-Blockchain-and-Flutter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eYasarbas&repo=https://github.com/eYasarbas/Tracking-market-product-with-Blockchain-and-Flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/eYasarbas/https://github.com/eYasarbas/Blog-Site-with-Asp.NetCore-6.0" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eYasarbas&repo=https://github.com/eYasarbas/Blog-Site-with-Asp.NetCore-6.0&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
