@@ -18,10 +18,7 @@ src="https://img.shields.io/twitter/follow/YasarbasEnes?logo=twitter&style=for-t
 ### Skills
 
 
-<p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
-</p>
-
+<p align=“left”> <img src=“https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/programming/java.svg” alt=“Java” width=“16” height=“16”/> <img src=“https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/programming/csharp.svg” alt=“C#” width=“16” height=“16”/> </p>
 
 ### Socials
 
