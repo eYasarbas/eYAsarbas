@@ -1,6 +1,16 @@
 # 💫 About Me:
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Enes Yaşarbaş<br>=====================================================================================================================================<br><br>Computer Engineer<br>-----------------<br><br>Hello, I'm Enes Yaşarbaş, an aspiring software developer hailing. My primary focus is on crafting dynamic web applications using cutting-edge technologies like Asp.NetCore and Data Science. My enthusiasm extends to Flutter and Blockchain technologies, both of which I consider pivotal for constructing robust software solutions. In my perpetual quest for fresh challenges, I'm unwavering in my commitment to broadening my skill set and staying abreast of the ever-evolving software engineering landscape. You're invited to delve into some of the ongoing projects I'm engaged in by visiting my GitHub page. Please don't hesitate to reach out with any inquiries or suggestions – your insights are invaluable!<br><br>* 🌍  I'm based in Ankara<br>* ✉️  You can contact me at [yasarbas583@gmail.com](mailto:yasarbas583@gmail.com)<br>* 🚀  I'm currently working on [Traversal Booking](http://github.com/eYasarbas/Traversal_Booking)<br>* 🧠  I'm learning Asp.NetCore,Data Sicent, Machine Learning ,Flutter
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Enes Yaşarbaş
+=====================================================================================================================================
 
+Computer Engineer
+-----------------
+
+Hello, I'm Enes Yaşarbaş, an aspiring software developer hailing. My primary focus is on crafting dynamic web applications using cutting-edge technologies like Asp.NetCore and Data Science. My enthusiasm extends to Flutter and Blockchain technologies, both of which I consider pivotal for constructing robust software solutions. In my perpetual quest for fresh challenges, I'm unwavering in my commitment to broadening my skill set and staying abreast of the ever-evolving software engineering landscape. You're invited to delve into some of the ongoing projects I'm engaged in by visiting my GitHub page. Please don't hesitate to reach out with any inquiries or suggestions – your insights are invaluable!
+
+* 🌍  I'm based in Ankara
+* ✉️  You can contact me at [yasarbas583@gmail.com](mailto:yasarbas583@gmail.com)
+* 🚀  I'm currently working on [Traversal Booking](http://github.com/eYasarbas/Traversal_Booking)
+* 🧠  I'm learning Asp.NetCore,Data Sicent, Machine Learning ,Flutter
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enes-ya%C5%9Farba%C5%9F-65819217b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YasarbasEnes) 
