@@ -17,6 +17,10 @@ src="https://img.shields.io/twitter/follow/YasarbasEnes?logo=twitter&style=for-t
 
 ### Skills
 
+### Skills
+
+
+<p align=“left”> <img src=“https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg” alt=“Java” width=“16” height=“16”/> <img src=“https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg” alt=“C#” width=“16” height=“16”/> </p>
 
 
 
