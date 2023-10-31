@@ -14,7 +14,7 @@ Feel free to contact me with any questions, suggestions or feedback. Your feedba
 * 🌍  I'm based in Ankara
 * ✉️  You can contact me at [yasarbas583@gmail.com](mailto:yasarbas583@gmail.com)
 * 🚀  I'm currently working on [Traversal Booking](http://github.com/eYasarbas/Traversal_Booking)
-* 🧠  I'm learning Asp.NetCore,Data Science, Machine Learning ,Flutter
+* 🧠  I'm learning Asp.NetCore
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enes-ya%C5%9Farba%C5%9F-65819217b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YasarbasEnes) 
