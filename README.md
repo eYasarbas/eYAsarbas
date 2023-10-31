@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineer
 -----------------
 
-Hello, I am Enes Yasarbas. My passion for software development shapes my goal of building dynamic web applications. I work with the latest technologies such as Asp.Net Core and build my projects on this foundation.
+Hello, I am Enes Yaşarbaş. My passion for software development shapes my goal of building dynamic web applications. I work with the latest technologies such as Asp.Net Core and build my projects on this foundation.
 
 I am always eager to face new challenges. With a desire to continuously expand my capabilities, I am determined to keep up with the rapid changes in the software engineering world. I would be happy for you to visit my GitHub page and check out my ongoing projects.
 
