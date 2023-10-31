@@ -5,7 +5,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineer
 -----------------
 
-Hello, I'm Enes Yaşarbaş, an aspiring software developer hailing. My primary focus is on crafting dynamic web applications using cutting-edge technologies like Asp.NetCore and Data Science. My enthusiasm extends to Flutter and Blockchain technologies, both of which I consider pivotal for constructing robust software solutions. In my perpetual quest for fresh challenges, I'm unwavering in my commitment to broadening my skill set and staying abreast of the ever-evolving software engineering landscape. You're invited to delve into some of the ongoing projects I'm engaged in by visiting my GitHub page. Please don't hesitate to reach out with any inquiries or suggestions – your insights are invaluable!
+Hello, I am Enes Yasarbas. My passion for software development shapes my goal of building dynamic web applications. I work with the latest technologies such as Asp.Net Core and build my projects on this foundation.
+
+I am always eager to face new challenges. With a desire to continuously expand my capabilities, I am determined to keep up with the rapid changes in the software engineering world. I would be happy for you to visit my GitHub page and check out my ongoing projects.
+
+Feel free to contact me with any questions, suggestions or feedback. Your feedback is of great importance to me. I am here for good collaboration and innovative projects.
 
 * 🌍  I'm based in Ankara
 * ✉️  You can contact me at [yasarbas583@gmail.com](mailto:yasarbas583@gmail.com)
